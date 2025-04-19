@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 ![s0nwchef's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0nwchef&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0nwchef&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0nwchef&layout=compact&theme=radical&langs_count=8&hide_progress=false)
 
 ---
 
