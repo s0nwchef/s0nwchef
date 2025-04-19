@@ -1,40 +1,19 @@
 # 👋 Hi, I'm s0nwchef
-
-🎓 2nd-year Software Engineering student at IUH (Industrial University of Ho Chi Minh City)  
-
----
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🚀 Projects
+# 💫 About Me:
+🎓 2nd-year Software Engineering student at IUH (Industrial University of Ho Chi Minh City)<br>🏫 Currently studying Software Engineering at IUH (Industrial University of Ho Chi Minh City)<br>🌱 Actively learning Node.js, MongoDB, and building real-world projects<br>⚽ I also enjoy football, badminton, and gaming in my free time
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamshun1610) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s0nw_chef) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyensonn2k5@gmail.com) 
 
-## 📊 GitHub Stats
-
-![s0nwchef's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0nwchef&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0nwchef&layout=compact&theme=radical&langs_count=8&hide_progress=false)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=s0nwchef&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=s0nwchef&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=s0nwchef&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=s0nwchef&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍🎓 About Me
-
-- 🏫 Currently studying Software Engineering at IUH (Industrial University of Ho Chi Minh City)
-- 🌱 Actively learning Node.js, MongoDB, and building real-world projects
-- ⚽ I also enjoy football, badminton, and gaming in my free time
-
----
-
-## 📫 Get in Touch
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyensonn2k5@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
