@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Son Nguyen Hoang 👋</h1>
 
 <p align="center">
-  <b>Software Engineer Intern</b> · Frontend & Mobile Developer<br/>
+  <b>Software Engineer</b> · Frontend & Mobile Developer<br/>
   📍 Ho Chi Minh City, Vietnam
 </p>
 
