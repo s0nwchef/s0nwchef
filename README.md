@@ -59,12 +59,6 @@ I enjoy building responsive web/mobile interfaces, integrating RESTful APIs, and
 **Industrial University of Ho Chi Minh City (IUH)** · Aug 2023 – Present
 Software Engineering · GPA: 3.2/4
 
-## 🏆 Activities
-
-- **Hackathon & Club:** Competed in Naver AI Hackathon and joined IUH Programming Lab & AI workshops.
-- **Extracurriculars:** Built teamwork through university football tournaments.
-
----
 
 <p align="center">
   <i>Open to internship opportunities — feel free to reach out at <a href="mailto:nguyensonn2k5@gmail.com">nguyensonn2k5@gmail.com</a> 🚀</i>
